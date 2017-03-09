@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [scales_detection]: ./images/scales_detection.png
 [heat_maps]: ./images/heat_maps.png
 [labels_boxes]: ./images/labels_boxes.png
-[video1]: ./project_video.mp4
+[video1]: ./video/project_video_lanes_vehicles.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
 ###Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
@@ -158,9 +158,9 @@ As described in the previous point, I ended up using three scales using YCrCb 3-
 
 ####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
 
-Here's a ["link to my video result"]( http://onlinemanuals.txdot.gov/txdotmanuals/rdw/horizontal_alignment.htm#BGBHGEGC)
+Here's a ["link to my video result"](https://youtu.be/BQ682I1ptFk)
 
-Or you can also check it in  [video folder](./project_video.mp4)
+Or you can also check it in  [video folder](./video/project_video_lanes_vehicles.mp4)
 
 
 I combined this with Advance Lane Detection project by converting it into a class and importing the .py for that project:
