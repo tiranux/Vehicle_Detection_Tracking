@@ -162,6 +162,9 @@ Here's a ["link to my video result"](https://youtu.be/BQ682I1ptFk)
 
 Or you can also check it in  [video folder](./video/project_video_lanes_vehicles.mp4)
 
+Here is also one ["video of my own"](https://youtu.be/QuqjMvQ5Nsk). Also in [local video folder](./video/vehicle_detection_own_video.mp4)
+
+
 
 I combined this with Advance Lane Detection project by converting it into a class and importing the .py for that project:
 `import CarND_Advanced_Lane_Line`
